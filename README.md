@@ -15,7 +15,7 @@ This app would allow you to record the sound of the computer without being notic
 **Author**: KPFZIPOH
 **Description**: A Python script to record audio from a microphone, save it as a WAV file, and convert it to MP3 format. The script supports customizable recording durations, command-line arguments, and graceful termination handling.
 
-Note: This project is intended for educational purposes only. Unauthorized use of keyloggers to capture keystrokes without consent is illegal and unethical. Ensure you have explicit permission from all parties involved before using this software.
+Note: This project is intended for educational purposes only. Unauthorized use of voicecap to capture mic/voice of remote computer without consent is illegal and unethical. Ensure you have explicit permission from all parties involved before using this software.
 
 ## Features
 - Record audio for a specified duration (default: 60 minutes).
