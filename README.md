@@ -32,7 +32,7 @@ Note: This project is intended for educational purposes only. Unauthorized use o
   - `sounddevice`: For audio recording.
   - `soundfile`: For saving audio as WAV files.
   - `pydub`: For converting WAV to MP3.
-- **FFmpeg**: Required for MP3 conversion. Install it separately (see installation instructions below).
+- **FFmpeg**: Required for MP3 conversion. Install it separately (see installation instructions below).  you need to put the ffmpeg.exe to the same folder as voicecap.exe
 
 ## Installation
 
